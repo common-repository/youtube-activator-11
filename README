@@ -1,0 +1,30 @@
+Youtube Activator 1.0
+========================
+
+
+Based on the problematic, that no current tool on the market was able to cope with the simple task of chaning a videos status.
+
+So what the plugin does, is to set a video to public, once its related wordpress post gets published.
+
+Functionalities like this exist for Facebook, Twitter etc.
+
+If you own a Podcast Blog and you do publish your Podcasts on Youtube, maybe this is an interesting Plugin if you would like 
+to automate you publishing routine.
+
+
+Technical Notes
+===============
+
+To faciliate best compatibility this plugin works by using the frequently tested and updated Zend_Gdata library.
+
+If you have any problem with this plugin it would be wise to update this library, which resides in the same directory as the yt-activator.php
+file.
+
+The code for the plugin itself is very small and not really prone to errors, so any complications might likely occur due to changes on the Youtube API
+
+License Notes
+=============
+
+This plugin is absolutely free and can be modified, used and changed by anybody.
+
+The author of this plugin is Andre Alpar. Feel free to contact me regarding this plugin under a@andre.fm
